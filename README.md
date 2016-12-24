@@ -160,6 +160,10 @@ You can also change the size on the fly with the third argument:
 History Log
 ------------------
     
+- 1.0.1 -- 2016-12-24
+
+    - fix bug
+    
 - 1.0.0 -- 2016-12-24
 
     - separated IconsFactory from Icons

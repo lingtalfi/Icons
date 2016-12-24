@@ -15,7 +15,7 @@ class IconsFactory
             <svg style="display: none">
                 <defs>
                     <?php
-                    foreach (self::$icons as $name):
+                    foreach (Icons::$icons as $name):
 
                         switch ($name) {
                             case 'add':

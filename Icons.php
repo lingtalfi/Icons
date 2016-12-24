@@ -6,7 +6,7 @@ namespace Icons;
 // https://github.com/lingtalfi/Icons
 class Icons
 {
-    private static $icons = [];
+    public static $icons = [];
 
     public static function printIcon($name, $color = null, $size = 24)
     {
