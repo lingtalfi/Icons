@@ -18,14 +18,9 @@ I created this helper to work mainly with [material icons](https://material.io/i
 How does it work?
 -------------------
 
-1. Include the Icons.php file in your application
+1. Include the Icons.php file and the IconsFactory.php file in your application
 
-2. Configure Icons.php
-
-Add your icons in the printIconsDefinitions method (duplicate the case statement of the switch).
-
-You might also want to change the viewBox settings, depending on the icon library that you are using.
-
+2. Configure IconsFactory.php (look in the script sections to generate the Factory from a simple svg file)
 
 3. Css pass
 
@@ -45,7 +40,7 @@ If you are sure that your icons will always have the same characteristics, you c
 Put this php code at the bottom of each html page that you generate.
 
 ```php
-Icons::printIconsDefinitions();
+IconsFactory::printIconsDefinitions();
 ```
 
 
@@ -72,3 +67,17 @@ You can also change the size on the fly with the third argument:
 ```
 
 
+
+
+
+ 
+ 
+History Log
+------------------
+    
+- 1.0.0 -- 2016-12-24
+
+    - separated IconsFactory from Icons
+
+- ??? -- ???
+	- initial commit    
