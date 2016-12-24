@@ -100,8 +100,7 @@ before deploying to production, thanks to the [generators](https://github.com/li
 
 So, a couple of interesting options.
 
-But both methods work fine, that's just my workflow for the moment, I might switch back to the straightforward
-approach as this is usually what I'm looking for (this is still an evaluate period for me...).
+But both methods work fine.
 
 
 
@@ -159,6 +158,10 @@ You can also change the size on the fly with the third argument:
  
 History Log
 ------------------
+    
+- 1.0.2 -- 2016-12-24
+
+    - fix bug
     
 - 1.0.1 -- 2016-12-24
 
