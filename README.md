@@ -6,6 +6,8 @@ Icons
 Add svg icons to your website.
 
 
+This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
+
 
 This library helps you integrating svg icons in your website.
 It works best (only?) if all icons have same size, such as when they all come from the same icons library.
