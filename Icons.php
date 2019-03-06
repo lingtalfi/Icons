@@ -1,6 +1,6 @@
 <?php
 
-namespace Icons;
+namespace Ling\Icons;
 
 
 // https://github.com/lingtalfi/Icons

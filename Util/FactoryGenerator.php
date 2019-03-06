@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Icons\Util;
+namespace Ling\Icons\Util;
 
 
 class FactoryGenerator

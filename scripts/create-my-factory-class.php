@@ -12,7 +12,7 @@ require_once "bigbang.php";
  * (This IconsFactory class is meant to be customized to your needs anyway...)
  *
  */
-use Icons\Util\FactoryGenerator;
+use Ling\Icons\Util\FactoryGenerator;
 
 $className = 'IconsFactory';
 $svgFiles = [

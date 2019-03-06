@@ -2,8 +2,8 @@
 
 require_once "bigbang.php";
 
-use Bat\FileSystemTool;
-use DirScanner\DirScanner;
+use Ling\Bat\FileSystemTool;
+use Ling\DirScanner\DirScanner;
 
 
 //------------------------------------------------------------------------------/

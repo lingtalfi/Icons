@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Icons;
+namespace Ling\Icons;
 
 
 class MaterialIconsFactory
