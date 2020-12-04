@@ -168,7 +168,11 @@ You can also change the size on the fly with the third argument:
  
 History Log
 ------------------
-    
+
+- 1.0.3 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.2 -- 2016-12-24
 
     - fix bug
